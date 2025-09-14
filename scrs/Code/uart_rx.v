@@ -1,4 +1,4 @@
-// author: Mahmoud Ahmed Koriem
+// Author: Abdelrahman Nasser Taha
 
 module uart_rx (
     input       clk,
