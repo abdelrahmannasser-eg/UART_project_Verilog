@@ -1,15 +1,6 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Engineer: Mahmoud Ahmed Koriem
-// 
-// Create Date: 09/09/2025 02:31:05 PM
-// Design Name: UART Transceiver
-// Module Name: uart_transceiver
+// Author: Abdelrahman Nasser Taha
 
-// Description: Full-duplex UART transceiver with programmable baud rate, 
-//              parity, data bits, and stop bits using FIFOs.
-
-//////////////////////////////////////////////////////////////////////////////////
 
 module uart_transceiver (
     input              clk,
