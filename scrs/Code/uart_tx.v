@@ -1,4 +1,5 @@
-// author: Mahmoud Ahmed Koriem
+// Author: Abdelrahman Nasser Taha
+
 module uart_tx (
     input clk,
     reset_n,
